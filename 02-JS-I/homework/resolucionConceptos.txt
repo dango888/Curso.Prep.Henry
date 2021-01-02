@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+-Una variable es una forma que se usa para almacenar un valor para su posterior uso, debe tener un nombre y de manera opcional se le puede agregar un valor que puede estar representado en un número, un string o algún otro dato que lo haga distinguir.
+-En programación, las palabras, letras y frases que se coloquen entre comillas se llaman strings. Ejemplo 'soy henry' es un string, pero soy henry no lo es.
+-Una función es el enunciado que le dice a la máquina que realice una tarea determinada, las funciones están compuestas generalmente del nombre función,argumento que va entre paréntesis y corchetes. Un argumento para darle información adicional a la máquina,el argumento se encuentra de paréntesis y dentro de las llaves se encuentra el código a ejecutar.
+-Declaraciones if, estas declaraciones tienen como función controlar el flujo y continuidad del codigo suministrado, verificando si se cumple una de las condiciones para seguir o ser interrumpido.
+-Valores booleanos, son valores que se rigen a partir de 2 opciones alimentando y siendo enfocado en lo binario siendo usado en JavaScript como verdadero o falso. 
