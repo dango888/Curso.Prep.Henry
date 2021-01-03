@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+-for
+-&&, ||, !
+
+
+-El Bucle For en programación para Javascript se usa para repetir una o varias instrucciones en un numero establecido anteriormente, tiene tres componentes principales y son escritos dentro de paréntesis y separados por punto y coma, la primera instrucción es en la que se describe la variable que vamos a usar para llevar la cuenta de cuantas veces se ejecutará el bucle, en la segunda parte encontramos el condicionante que será el encargado de evaluar el proceso qcada que se ejecute el ble, por ultimo encontramos los cambios a actualizar y es la que sirve para saber si el bucle se sigue ejecutando. Una vez terminamos el For continuamos a escribir entre llaves las sentencias que deseamos que se ejecuten una vez termina el proceso del for.
+-Los Operadores lógicos &&, || y ! nos ayudan a darle sentido y a comprobar según cada caso si las expresiones son; true or false para el caso de && y || y para negar en el caso de !de esta forma nos ayudan a completar el objetivo al escribir cada codigo.  
