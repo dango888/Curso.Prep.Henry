@@ -1,0 +1,3 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Arrays: Los Arrays son una estructura en JavaScript que es similar a una variable con la diferencia que dentro de ésta puede haber una gran cantidad de variables, como strings, numeros o booleanos entre otros. A través de esta estructura podemos guardar y acceder a todos sus datos invocandolos con el nombre del Array y su posción. 
